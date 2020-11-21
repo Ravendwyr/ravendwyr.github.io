@@ -14,6 +14,9 @@ description: Avid Gamer and Hobbyist Programmer.
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/554d9101-4567-4d5f-a4e7-9f72d7cad06f-profile_image-300x300.png
 
+# Brave Rewards publisher verification
+include: [".well-known"]
+
 #
 # Flags below are optional
 #

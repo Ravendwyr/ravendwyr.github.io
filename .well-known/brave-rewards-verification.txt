@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: ravendwyr.github.io
+Token: 6effe7989cea3e767116014374e8dccea027c312b1af9e7853ce488c989d6a86
