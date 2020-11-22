@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Discontinuations
-categories: [Broker oQueue, Fubar uClock, ColourblindMode]
+categories: [Broker oQueue, Fubar uClock, Colourblind Mode]
 ---
 
 With the announcement of Patch 6.0 going live on October 15th, I am officially discontinuing three of my smaller projects.  As of today, Broker oQueue, FuBar uClock and Colourblind Mode are now in an end-of-life state and will no longer receive updates.

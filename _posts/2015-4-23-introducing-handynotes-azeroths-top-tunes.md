@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introducing HandyNotes Azeroth's Top Tunes
-categories: [HandyNotes Azeroths' Top Tunes]
+categories: [HandyNotes Azeroth's Top Tunes]
 ---
 
 <script>const whTooltips = { colorLinks: false, iconizeLinks: false, renameLinks: false };</script>
