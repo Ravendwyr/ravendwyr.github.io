@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chinchilla Minimap Updated to Version 2.6.3
-categories: [Miscellaneous]
+categories: [Chinchilla Minimap]
 ---
 
 A couple of errors managed to slip past me in the last couple of updates.  I apologise for this inconvenience.  It happens to the best and worst of us, but the good news is most if not all of the bugs have been squashed and Chinchilla Minimap should be problem free once more.
